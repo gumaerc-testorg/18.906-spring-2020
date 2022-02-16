@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: References
 uid: 7ba99210-a90b-6988-8271-2773167a1308
 ---
@@ -114,7 +116,7 @@ Fibrations, Fundamental Groupoid
 Cofibrations
 {{< tdclose >}}
 {{< tdopen >}}
- <No suggested references>
+ \<No suggested references>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Cofibrations
 Cofibration Sequences and Co-exactness
 {{< tdclose >}}
 {{< tdopen >}}
- ﻿<No suggested references>  
+ ﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +140,7 @@ Cofibration Sequences and Co-exactness
 Weak Equivalences and Whitehead’s Theorems
 {{< tdclose >}}
 {{< tdopen >}}
- ﻿<No suggested references>  
+ ﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +200,7 @@ Connectivity and Approximation
 Cellular Approximation, Obstruction Theory
 {{< tdclose >}}
 {{< tdopen >}}
- ﻿<No suggested references>  
+ ﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +212,7 @@ Cellular Approximation, Obstruction Theory
 Hurewicz, Moore, Eilenberg, Mac Lane, and Whitehead
 {{< tdclose >}}
 {{< tdopen >}}
- ﻿<No suggested references>  
+ ﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +274,7 @@ Husemöller, Dale. _Fibre Bundles,_ 3rd edition. Springer, 1993. ISBN: 978038794
 Principal Bundles, Associated Bundles
 {{< tdclose >}}
 {{< tdopen >}}
- ﻿<No suggested references>  
+ ﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +283,7 @@ Principal Bundles, Associated Bundles
 18
 {{< tdclose >}}
 {{< tdopen >}}
-_I_\-invariance of Bun_G_, and _G_\-CW Complexes
+_I_\-invariance of Bun{{< sub "_G_" >}}, and _G_\-CW Complexes
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -372,7 +374,7 @@ Miller, Haynes. "![This resource may not render correctly in a screen reader.](/
 The Spectral Sequence of a Filtered Complex
 {{< tdclose >}}
 {{< tdopen >}}
- ﻿<No suggested references>  
+ ﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -396,7 +398,7 @@ Serre, Jean-Pierre. "![This resource may not render correctly in a screen reader
 Exact Couples
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>  
+﻿\<No suggested references>  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -409,7 +411,7 @@ The Gysin Sequence, Edge Homomorphisms, and the
 Transgression
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -449,7 +451,7 @@ Dress, A. "[Zur Spectralsequenz von Faserungen](http://gdz.sub.uni-goettingen.de
 Cohomological Spectral Sequences
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -461,7 +463,7 @@ Cohomological Spectral Sequences
 Serre Classes
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -473,7 +475,7 @@ Serre Classes
 Mod C Hurewicz and Whitehead Theorems
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -509,7 +511,7 @@ Bousfield, Aldridge Knight. "![This resource may not render correctly in a scree
 Chern Classes, Stiefel-Whitney Classes, and the Leray-Hirsch Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -521,7 +523,7 @@ Chern Classes, Stiefel-Whitney Classes, and the Leray-Hirsch Theorem
 _H_\*(_BU_(_n_)) and the Splitting Principle
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -533,7 +535,7 @@ _H_\*(_BU_(_n_)) and the Splitting Principle
 The Thom Class and Whitney Sum Formula
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -545,7 +547,7 @@ The Thom Class and Whitney Sum Formula
 Closing the Chern Circle, and Pontryagin Classes
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -557,7 +559,7 @@ Closing the Chern Circle, and Pontryagin Classes
 Steenrod Operations
 {{< tdclose >}}
 {{< tdopen >}}
-﻿<No suggested references>   
+﻿\<No suggested references>   
 {{< tdclose >}}
 
 {{< trclose >}}

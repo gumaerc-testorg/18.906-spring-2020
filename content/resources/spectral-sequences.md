@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-906-algebraic-topology-ii-spring-2020/2b4ef13ff283e534b40c6d0165891aa4_spectral-sequences.pdf
+file: /media/courses/18-906-algebraic-topology-ii-spring-2020/2b4ef13ff283e534b40c6d0165891aa4_spectral-sequences.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: References
+parent_type: CourseSection
 resourcetype: Document
 title: Notes on Spectral Sequences
 uid: 2b4ef13f-f283-e534-b40c-6d0165891aa4

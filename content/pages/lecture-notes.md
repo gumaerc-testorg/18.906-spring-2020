@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 64448bff-263d-c13c-7710-87c317c5f175
 ---
@@ -195,7 +198,7 @@ Principal Bundles, Associated Bundles
 18
 {{< tdclose >}}
 {{< tdopen >}}
-_I_\-invariance of Bun_G_, and _G_\-CW Complexes
+_I_\-invariance of Bun{{< sub "_G_" >}}, and _G_\-CW Complexes
 {{< tdclose >}}
 
 {{< trclose >}}
