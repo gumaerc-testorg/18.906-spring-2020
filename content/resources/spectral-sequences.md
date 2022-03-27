@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: References
 parent_type: CourseSection
+parent_uid: 7ba99210-a90b-6988-8271-2773167a1308
 resourcetype: Document
 title: Notes on Spectral Sequences
 uid: 2b4ef13f-f283-e534-b40c-6d0165891aa4

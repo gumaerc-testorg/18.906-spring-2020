@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 64448bff-263d-c13c-7710-87c317c5f175
 resourcetype: Document
 title: 18.906 Algebraic Topology II complete lecture notes
 uid: e8a061a7-3ca1-a451-df88-09c7a7fbc846

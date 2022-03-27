@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: References
 parent_type: CourseSection
+parent_uid: 7ba99210-a90b-6988-8271-2773167a1308
 resourcetype: Document
 title: 'Juvitop: Spectral Sequences'
 uid: cd9f38f4-cbc7-f008-d329-9432df656d07

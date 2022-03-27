@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: References
 parent_type: CourseSection
+parent_uid: 7ba99210-a90b-6988-8271-2773167a1308
 resourcetype: Document
 title: "A version of Graeme Segal\u2019s perspective on classifying spaces"
 uid: 9c031bfb-333a-8a51-f0e2-e10b545c3fb4
