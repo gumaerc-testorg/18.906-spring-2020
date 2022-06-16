@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-906-algebraic-topology-ii-spring-2020/cd9f38f4cbc7f008d3299432df656d07_andrews-spectral-sequences.pdf
+file: /courses/18-906-algebraic-topology-ii-spring-2020/cd9f38f4cbc7f008d3299432df656d07_andrews-spectral-sequences.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

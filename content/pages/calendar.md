@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section list the topics for each class session as well as key dates
+  for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a complete set of lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: 64448bff-263d-c13c-7710-87c317c5f175
 ---
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complete lecture notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit18_906s20_notes)
+{{% resource_link e8a061a7-3ca1-a451-df88-09c7a7fbc846 "Complete lecture notes (PDF - 1.4MB)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -24,7 +25,7 @@ TOPICS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Basic Homotopy Theory (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch1)** 
+**{{% resource_link b3152e2a-5754-bea0-937e-01c666d32959 "Basic Homotopy Theory (PDF)" %}}** 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +112,7 @@ Homotopy Long Exact Sequence and Homotopy Fibers
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[The Homotopy Theory of CW Complexes (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch2)**  
+**{{% resource_link 295d7728-d300-ebf7-7c92-fc09a243d8ce "The Homotopy Theory of CW Complexes (PDF)" %}}**  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ Obstruction Theory
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Vector Bundles and Principal Bundles (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch3)**  
+**{{% resource_link 5159f8b7-2f7e-2fa9-180a-fd567e4d049e "Vector Bundles and Principal Bundles (PDF)" %}}**  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +232,7 @@ The Čech Category and Classifying Maps
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Spectral Sequences and Serre Classes (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch4)** 
+**{{% resource_link 9c132d35-1322-990b-96fa-38d1e2701edf "Spectral Sequences and Serre Classes (PDF)" %}}** 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +338,7 @@ Freudenthal, James, and Bousfield
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)**[Characteristic Classes, Steenrod Operations, and Cobordism (PDF)]({{< baseurl >}}/resources/mit18_906s20_ch5)** 
+**{{% resource_link d567d6a5-a35a-1553-ad49-84de13700cf8 "Characteristic Classes, Steenrod Operations, and Cobordism (PDF)" %}}** 
 {{< tdclose >}}
 
 {{< trclose >}}
