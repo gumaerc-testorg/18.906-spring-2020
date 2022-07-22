@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section list the topics for each class session as well as key dates
+  for assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 3e97bce0-3071-7c97-6ac2-e50e9b4eccf8
 ---
@@ -247,7 +251,7 @@ Principal Bundles, Associated Bundles
 18
 {{< tdclose >}}
 {{< tdopen >}}
-_I_\-invariance of Bun_G_, and _G_\-CW Complexes
+_I_\-invariance of Bun{{< sub "_G_" >}}, and _G_\-CW Complexes
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 3 due

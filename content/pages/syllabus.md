@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section describes the course prerequisites, content, requirements,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: acdc59a3-3b74-ea3a-c5bb-3bc54846ee7d
 ---
@@ -12,7 +16,7 @@ Lectures: 3 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[_18.905 Algebraic Topology I_](/courses/18-905-algebraic-topology-i-fall-2016/)
+[_18.905 Algebraic Topology I_](/courses/18-905-algebraic-topology-i-fall-2016)
 
 Description
 -----------
@@ -22,7 +26,7 @@ This course continues the introduction to algebraic topology from 18.905. Topics
 Lecture Notes and References
 ----------------------------
 
-There is no required textbook, but [lecture notes]({{< baseurl >}}/pages/lecture-notes) are provided. Often a [reference]({{< baseurl >}}/pages/references) is also provided to cover details not discussed in lecture.
+There is no required textbook, but {{% resource_link 64448bff-263d-c13c-7710-87c317c5f175 "lecture notes" %}} are provided. Often a {{% resource_link 7ba99210-a90b-6988-8271-2773167a1308 "reference" %}} is also provided to cover details not discussed in lecture.
 
 Assignments and Exams
 ---------------------
