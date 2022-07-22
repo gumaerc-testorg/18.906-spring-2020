@@ -5,6 +5,7 @@ file: /courses/18-906-algebraic-topology-ii-spring-2020/e8a061a73ca1a451df8809c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
