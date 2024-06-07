@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-906-algebraic-topology-ii-spring-2020/2b4ef13ff283e534b40c6d0165891aa4_spectral-sequences.pdf
+file_size: 146132
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
