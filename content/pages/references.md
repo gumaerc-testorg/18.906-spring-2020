@@ -202,7 +202,7 @@ Exact Couples
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-The Gysin Sequence, Edge Homomorphisms, and the   
+The Gysin Sequence, Edge Homomorphisms, and the    
 Transgression
 {{< tdclose >}}{{< tdopen >}}
 ﻿\<No suggested references>  
@@ -304,6 +304,6 @@ Applications of Cobordism 
 
 Atiyah, Michael. "Bordism and Cobordism." *Proceedings of the Cambridge Philosophical Society* 57 (1961) 200–208.
 
-Milnor, John. "[A Procedure for Killing Homotopy Groups of Differentiable Manifolds (PDF)](https://www.ams.org/books/pspum/003/0130696/pspum003-0130696.pdf)." *Proceedings of Symposia in Pure Mathematics*, III (1961) 39–55.
+Milnor, John. "[A Procedure for Killing Homotopy Groups of Differentiable Manifolds (PDF)](https://www.maths.ed.ac.uk/~v1ranick/papers/milnorsurg.pdf)." *Proceedings of Symposia in Pure Mathematics*, III (1961) 39–55.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
