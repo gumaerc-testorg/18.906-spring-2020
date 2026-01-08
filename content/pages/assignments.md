@@ -26,4 +26,4 @@ Problem Sets
 Software
 --------
 
-Consider using Hood Chatham's {{% resource_link "3755eacc-fab6-4dfe-be56-e747da2e39c3" "software package" %}} for drawing spectral sequences.
+Consider using Hood Chatham's [software package](https://github.com/hoodmane/sseqpages/blob/master/sseqpages.sty) for drawing spectral sequences.
