@@ -41,4 +41,4 @@ The course grade is based on homework assignments.
 Schedule Note
 -------------
 
-Four days of the original lecture schedule were omitted and the last half of the course was conducted online because of the {{% resource_link "cb3d2852-9cee-4b7f-b0a2-f2923cc9bc81" "COVID-19 pandemic" %}}.
+Four days of the original lecture schedule were omitted and the last half of the course was conducted online because of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic).
